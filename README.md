@@ -1,3 +1,5 @@
+## This was my project when I was at Senior High School
+
 # OpenCart
 
 ## Overview
